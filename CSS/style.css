@@ -1,0 +1,37 @@
+body {
+    background: #F5FFFF;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1{
+    color: black;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+
+}
+
+.img_default{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.img_logo{
+    width: 100px;
+}
+
+footer{
+    margin-bottom: 30px;
+
+}
